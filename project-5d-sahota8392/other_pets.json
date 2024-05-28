@@ -1,0 +1,17 @@
+{
+  "Oni": {
+    "name": "Oni",
+    "breed": "Cane Corso",
+    "owner": "HSS"
+  },
+  "Growly": {
+    "name": "Growly",
+    "breed": "German Shepherd",
+    "owner": "JSS"
+  },
+  "ARB": {
+    "name": "Arb",
+    "breed": "person",
+    "owner": "HJS"
+  }
+}
